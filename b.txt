@@ -1,0 +1,2 @@
+this is b.txt
+this file created for practise purpose
