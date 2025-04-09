@@ -1,3 +1,0 @@
-﻿fetching data
-i am adding data to fetch this line and i can able to understand easily
-how to use fetch?
